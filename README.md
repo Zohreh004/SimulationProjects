@@ -1,4 +1,4 @@
-# SimulationProjects
+# SimulationProject_1
 # Monte Carlo and Importance Sampling project in R
 
 **Author:** Zohreh Sarmeli Saeedi  
