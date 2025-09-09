@@ -1,7 +1,5 @@
 # SimulationProjects
 Monte Carlo and Importance Sampling project in R
-# Monte Carlo vs Importance Sampling in R
-# Monte Carlo and Importance Sampling in R
 
 **Author:** Zohreh Sarmeli Saeedi  
 **Course Project:** Computer Simulation
